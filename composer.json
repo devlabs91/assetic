@@ -1,8 +1,8 @@
 {
-    "name": "kriswallsmith/assetic",
+    "name": "devlabs91/assetic",
     "description": "Asset Management for PHP",
     "keywords": [ "assets", "compression", "minification" ],
-    "homepage": "https://github.com/kriswallsmith/assetic",
+    "homepage": "https://github.com/devlabs91/assetic",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.1",
+        "php": ">=7.1.16",
         "symfony/process": "~2.1|~3.0"
     },
     "conflict": {
